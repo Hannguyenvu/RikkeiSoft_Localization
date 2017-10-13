@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RikkeiSoft_Localization</string>
+    <string name="btnHaveFun">Have Fun</string>
+    <string name="btnDoSomething">Do Something</string>
+    <string name="btnClickHere">Click Here</string>
+    <string name="btnSurprise">Surpise</string>
+</resources>

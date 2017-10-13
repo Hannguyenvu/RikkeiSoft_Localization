@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RikkeiSoft_Localization</string>
+    <string name="btnClickHere">Ấn Vào Đây</string>
+    <string name="btnDoSomething">Làm Vài Thứ</string>
+    <string name="btnHaveFun">Có Vui Vẻ</string>
+    <string name="btnSurprise">Sự Ngạc Nhiên</string>
+</resources>
